@@ -1,0 +1,41 @@
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarBakatAnak\SistemPakarBakatAnak\obj\Debug\SistemPakarBakatAnak.exe
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarBakatAnak\SistemPakarBakatAnak\obj\Debug\SistemPakarBakatAnak.xml
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarBakatAnak\SistemPakarBakatAnak\obj\Debug\SistemPakarBakatAnak.pdb
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.exe
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.pdb
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.xml
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\ResolveAssemblyReference.cache
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.Diagnosa.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormDataGejala.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormLaporan.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormLogin.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormMenuUtama.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormPenyakit.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormBasisPengetahuan.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.Resources.resources
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.vbproj.GenerateResource.Cache
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.exe
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.xml
+D:\Skripsi 2020\01. Januari-Maret\febrina novalia munthe sugeno\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.pdb
+C:\Users\asus\Downloads\SistemPakarWilliamSyndrome (1)\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.exe
+C:\Users\asus\Downloads\SistemPakarWilliamSyndrome (1)\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.xml
+C:\Users\asus\Downloads\SistemPakarWilliamSyndrome (1)\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.pdb
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.exe
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.xml
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.pdb
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.exe
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.pdb
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\bin\Debug\SistemPakarWilliamSyndrome.xml
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.vbprojResolveAssemblyReference.cache
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.Diagnosa.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormDataGejala.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormLaporan.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormLogin.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormMenuUtama.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormPenyakit.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.FormBasisPengetahuan.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.Resources.resources
+D:\budiman_sempro\Skiripsi S1\2016021009_Febrina Novalia Munthe_Sistem Informasi\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.vbproj.GenerateResource.Cache
+D:\budiman_sempro\Joki\Meniati\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.exe
+D:\budiman_sempro\Joki\Meniati\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.xml
+D:\budiman_sempro\Joki\Meniati\SistemPakarWilliamSyndrome\SistemPakarWilliamSyndrome\obj\Debug\SistemPakarWilliamSyndrome.pdb
